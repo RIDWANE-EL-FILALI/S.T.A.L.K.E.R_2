@@ -1,8 +1,18 @@
-# React + Vite
+# 🌌 S.T.A.L.K.E.R. 2: Fan Website  
+**Explore the heart of Chornobyl with a beautifully designed website inspired by the apocalyptic world of S.T.A.L.K.E.R. 2.**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project brings the eerie and immersive atmosphere of the Zone to life with:  
+- **React** for a modern, dynamic, and responsive user experience.  
+- **Tailwind CSS** for sleek, fully customizable styling that maintains consistency and responsiveness across devices.  
+- **GSAP (GreenSock Animation Platform)** to create smooth, cinematic animations and transitions that enhance the visual storytelling.  
 
-Currently, two official plugins are available:
+## ✨ Features  
+- **Bento-style Design**: Intuitive cards showcasing game features with hover effects and transitions.  
+- **Dynamic Animations**: Smooth interactions for seamless user engagement.  
+- **Apocalyptic Aesthetic**: Fonts, colors, and layouts that capture the danger and beauty of the Zone.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Technologies  
+- **Frontend**: React, Tailwind CSS, GSAP  
+- **Deployment**: Optimized for modern web browsers and scalability.  
+
+Step into the Zone with this visually striking and interactive fan experience!

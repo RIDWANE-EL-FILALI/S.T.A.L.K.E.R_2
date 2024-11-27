@@ -16,3 +16,20 @@ This project brings the eerie and immersive atmosphere of the Zone to life with:
 - **Deployment**: Optimized for modern web browsers and scalability.  
 
 Step into the Zone with this visually striking and interactive fan experience!
+## 🌟 Preview
+
+| Media Type     | Preview                                                                                     |
+|----------------|---------------------------------------------------------------------------------------------|
+| **Image 1**    | ![Screenshot 1](https://github.com/RIDWANE-EL-FILALI/S.T.A.L.K.E.R_2/blob/master/media/Screenshot%202024-11-27%20003213.png)                                                    |
+| **Image 2**    | ![Screenshot 2](https://github.com/RIDWANE-EL-FILALI/S.T.A.L.K.E.R_2/blob/master/media/Screenshot%202024-11-27%20003328.png)                                                    |
+| **Image 3**    | ![Screenshot 3](https://github.com/RIDWANE-EL-FILALI/S.T.A.L.K.E.R_2/blob/master/media/Screenshot%202024-11-27%20003353.png)                                                    |
+
+---
+
+## 🌐 Live Preview
+
+👉 Check out the live website here: [Website Link](https://s-t-a-l-k-e-r-2.vercel.app/)  
+
+---
+
+Feel free to fork and star this repository! Your feedback is highly appreciated! 🚀
